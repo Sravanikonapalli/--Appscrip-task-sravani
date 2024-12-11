@@ -10,9 +10,9 @@ const Navbar = () => (
     <div className="logo-and-icons">
       <h1>LOGO</h1>
       <div className="icons">
-        <IoIosSearch size={30} mr-2 />
-        <GrFavorite size={30} mr-2 />
-        <BsBag size={30} mr-2 />
+        <IoIosSearch size={30}/>
+        <GrFavorite size={30} />
+        <BsBag size={30} />
         <RiContactsLine size={30} />
         <p>
           ENG
